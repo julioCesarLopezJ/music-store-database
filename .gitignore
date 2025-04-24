@@ -1,0 +1,17 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de backup comunes de editores SQL
+*.bak
+*.tmp
+*.log
+*.sql~ 
+*.dbmdl
+
+# Archivos ocultos de editores de texto
+*.swp
+*.swo
+
+# Carpetas de VS Code
+.vscode/
